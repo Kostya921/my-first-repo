@@ -12,8 +12,8 @@
   - ...
     
   - **feature-add-zhyrnov**
-  - readme.txt
-  - students.txt
+    - readme.txt
+    - students.txt
 - .Rhistory
 - collab.txt
 - readme.txt
