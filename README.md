@@ -9,8 +9,11 @@
 
 **fix-issue-1**
 - **my-first-repo-Vivtyk**
-  - collab.txt
+  - ...
+    
+  - **feature-add-zhyrnov**
   - readme.txt
+  - students.txt
 - .Rhistory
 - collab.txt
 - readme.txt
@@ -38,4 +41,5 @@ python
         s += int(input_numbers[0])
         #print(input_numbers, s)
 
-print(f"Сума чисел: {s}")```
+print(f"Сума чисел: {s}")
+```
